@@ -11,27 +11,31 @@ This first course is a basic introduction to black box testing. It presents basi
 More info on the Learning Objectives for Foundations of Software Testing are available on the BBST.info website.
 
 ## Slides
-- Slide set for all Foundations lectures (PDF)
+- slidesBBSTFoundationsNov2010.pdf
 
 ## Videos
 Lecture 1: Overview & Basic Definitions
+
 This provides an overview of the online Black Box Software Testing courses and introduces some definitions commonly used in the testing field.
 
 - Lecture 1a (10 mins) (MP4)
 - Lecture 1b (10 mins) (MP4)
 - Lecture 1c (9 mins) (MP4)
 - Lecture 2: Strategy
+
 This considers why testers test, what they are trying to learn, and how they can organize their work to achieve their mission.
 
 - Lecture 2a (9 mins) (MP4)
 - Lecture 2b (9 mins) (MP4)
 - Lecture 3: Oracles
+
 This presents software oracles as heuristics that help testers make a judgment whether or not software passes the tests that are run.
 
 - Lecture 3a (7 mins) (MP4)
 - Lecture 3b (10 mins) (MP4)
 - Lecture 3c (7 mins) (MP4)
 - Lecture 4: Programming Fundamentals & Coverage
+
 This presents information about basic data handling and storage to help testers think about the multi-dimensional problem of test coverage in more sophisticated ways.
 
 - Lecture 4a (10 mins) (MP4)
@@ -39,12 +43,14 @@ This presents information about basic data handling and storage to help testers 
 - Lecture 4c (9 mins) (MP4)
 - Lecture 4d (4 mins) (MP4)
 - Lecture 5: The Impossibility of Complete Testing
+
 This explores the complexity of determining when testing is finished and how the goal of complete testing is unattainable.
 
 - Lecture 5a (9 mins) (MP4)
 - Lecture 5b (10 mins) (MP4)
 - Lecture 5c (10 mins) (MP4)
 - Lecture 6: Introduction to Measurement
+
 This addresses the challenges of measurement in software testing.
 
 - Lecture 6a (9 mins) (MP4)
@@ -84,10 +90,10 @@ Erik Simmons: When will we be done testing? Software defect arrival modeling usi
 Elaine J. Weyuker: On testing nontestable programs (PDF)
 
 ## Assignments
-Orientation Exercise for lecture on Impossibility of Complete Testing (PDF)
-Mission of Testing (PDF)
-Orientation Exercise for lecture on Oracles (PDF)
-Oracle Heuristics 3-Phase Lab (PDF)
+- Orientation Exercise for lecture on Impossibility of Complete Testing (PDF)
+- Mission of Testing (PDF)
+- Orientation Exercise for lecture on Oracles (PDF)
+- Oracle Heuristics 3-Phase Lab (PDF)
 
 ## Study Guide
-Study Guide for BBST Foundations (PDF)
+- bbstFoundationsStudyGuide.pdf
