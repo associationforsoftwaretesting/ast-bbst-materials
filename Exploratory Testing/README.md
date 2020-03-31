@@ -1,4 +1,6 @@
-# Exploratory Testing
+# AST-BBST Exploratory Testing
+
+This is a course that was never really created. Here we've pulled the materials directly from [TestingEducation.org](http://testingeducation.org/BBST/exploratory/), written by Cem Kaner:
 
 ## Overview
 Twenty-three years ago, I coined the phrase "exploratory testing." I didn't invent the practice but (as far as I can tell) I was the first public advocate of it.
@@ -22,4 +24,4 @@ The slides provide material for several videos, but we've only completed taping 
 - BBSTExploring.pdf
 
 ## Videos
-- Lecture 1 (16 mins) (WMV)
+- [Lecture 1](http://testingeducation.org/BBST/exploratory/BBSTExploring1.wmv)
