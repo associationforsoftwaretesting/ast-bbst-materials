@@ -31,58 +31,58 @@ We then skim a group of 10 different techniques, noticing their different object
 
 This lecture provides a structure for organizing your thinking about the many test techniques, and a focus on testing tours and on function testing. (Why together? The most common tour is an excellent foundation for function testing.)
 
-* part A (9 mins, 14 secs) (MP4)
-* part B (9 mins, 20 secs) (MP4)
-* part C (3 mins, 32 secs) (MP4)
-* part D (10 mins) (MP4)
-* part E (9 mins, 51 secs) (MP4)
-* part F (4 mins, 38 secs) (MP4)
+* part A (9 mins, 14 secs) 
+* part B (9 mins, 20 secs) 
+* part C (3 mins, 32 secs) 
+* part D (10 mins) 
+* part E (9 mins, 51 secs) 
+* part F (4 mins, 38 secs) 
 
 ### Lecture 2: Risk-Based Testing, Testing Strategy and the Heuristic Test Strategy Model
 
 This lecture introduces risk-based testing, including failure mode analysis and quicktests. The lecture also examines a few concepts important for developing a testing strategy.
 
-* part A (9 mins,4 secs) (MP4)
-* part B (9 mins,59 secs) (MP4)
-* part C (9 mins, 15 secs) (MP4)
-* part D (9 mins, 11 secs) (MP4)
-* part E (1 mins, 39 secs) (MP4)
+* part A (9 mins,4 secs) 
+* part B (9 mins,59 secs) 
+* part C (9 mins, 15 secs) 
+* part D (9 mins, 11 secs) 
+* part E (1 mins, 39 secs) 
 
 ### Lecture 3: Specification-Based Testing
 
 This lecture introduces specification-based testing and suggests eight questions that can guide specifications analysis.
 
-* part A (8 mins, 24 secs) (MP4)
-* part B (9 mins, 35 secs) (MP4)
-* part C (9 mins, 1 sec) (MP4)
+* part A (8 mins, 24 secs) 
+* part B (9 mins, 35 secs) 
+* part C (9 mins, 1 sec) 
 
 ### Lecture 4: Scenarios and Use Cases. Comparatively Evaluating Test Techniques
 
 This lecture introduces scenario testing, including 17 approaches to creating suites of scenario tests. It also suggests comparing test techniques in terms of their core strengths and describes 18 potential core strengths.
 
-* part A (9 mins, 49 secs) (MP4)
-* part B (9 mins, 49 secs) (MP4)
-* part C (9 mins, 58 secs) (MP4)
-* part D (10 mins) (MP4)
+* part A (9 mins, 49 secs) 
+* part B (9 mins, 49 secs) 
+* part C (9 mins, 58 secs) 
+* part D (10 mins) 
 
 ### Lecture 5: Domain Testing
 
 This lecture introduces domain testing, the most popular test technique. The lecture presents a schema for applying domain testing that emphasizes the technique's roots in risk-based testing.
 
-* part A (9 mins,26 secs) (MP4)
-* part B (9 mins, 16 secs) (MP4)
-* part C (9 mins, 57 secs) (MP4)
-* part D (6 mins, 50 secs) (MP4)
-* part E (9 mins, 57 secs) (MP4)
+* part A (9 mins,26 secs) 
+* part B (9 mins, 16 secs) 
+* part C (9 mins, 57 secs) 
+* part D (6 mins, 50 secs) 
+* part E (9 mins, 57 secs) 
 
 ### Lecture 6: Combination Testing
 
 This lecture focuses on ways to test several variables together, emphasizing combinatorial approaches (such as all-pairs).
 
-* part A (7 mins, 20 secs) (MP4)
-* part B (7 mins, 17 secs) (MP4)
-* part C (9 mins, 49 secs) (MP4)
-* part D (9 mins, 6 secs) (MP4)
+* part A (7 mins, 20 secs) 
+* part B (7 mins, 17 secs) 
+* part C (9 mins, 49 secs) 
+* part D (9 mins, 6 secs) 
 
 ## Readings
 
