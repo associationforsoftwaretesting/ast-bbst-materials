@@ -60,9 +60,9 @@ The final lecture introduces the RIMGEN acronym to guide testers in writing bett
 
 ## Assignments
 
-* Signal Detection Lab
-* Bug Evaluation Assignment
-* Sign up for the Open Office project and register in the test team
+* [Signal Detection Lab](./Bug%20Advocacy/Assignments/FIT_BBST_fall2011SignalDetectionLab.pdf)
+* [Bug Evaluation Assignment](./Bug%20Advocacy/Assignments/AssignmentBugEvaluationv11.3.pdf)
+* [Sign up for the Open Office project and register in the test team](./Bug%20Advocacy/Assignments/JoiningTheOpenOfficeProject.pdf)
 
 ## Study Guide
 
