@@ -123,13 +123,13 @@ This lecture focuses on ways to test several variables together, emphasizing com
 * Whittaker, J.A. (2002) How to Break Software, Boston: Addison Wesley (BOOK)
 
 ## Assignments
-* A Lab on Risk-based Testing (PDF)
-* Specification-Based Testing and Analysis (PDF)
-* Feedback on Specification-Based Testing and Analysis assignment (PDF)
-* Test Design Lab (PDF)
-* Domain Testing Lab (PDF)
-* Risk-based Domain Testing and Bug Reporting (PDF)
-* Combination Testing Lab (PDF)
+* [A Lab on Risk-based Testing](./Test%20Design/Assignments/A_Lab_on_Risk.pdf)
+* [Specification-Based Testing and Analysis](./Test%20Design/Assignments/Fall2011SpecificationAssign.pdf)
+* [Feedback on Specification-Based Testing and Analysis assignment](./Test%20Design/Assignments/HTSMandSpecs2011Feedback.pdf)
+* [Test Design Lab](./Test%20Design/Assignments/LabTestDesignFall2011.pdf)
+* [Domain Testing Lab](./Test%20Design/Assignments/LabDomaintestingFall2011.pdf)
+* [Risk-based Domain Testing and Bug Reporting](./Test%20Design/Assignments/AssignmentRiskDomainTestingFall2011.pdf)
+* [Combination Testing Lab](./Test%20Design/Assignments/LabCombinationTestingFall2011.pdf)
 
 ## Study Guide
 
