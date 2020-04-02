@@ -1,9 +1,8 @@
 # Welcome to the AST-BBST Materials
 
-All AST-BBST Materials
+This site provides [Creative Commons-licensed](http://creativecommons.org/licenses/by/3.0/) instructional materials (slides and videos) to teach black box software testing by the Association for Software Testing as part of our AST-BBST courses. (All additions made by AST are also Creative Commons licensed).
 
-* Currently the following are copies of the BBST material from [http://testingeducation.org/BBST/](http://testingeducation.org/BBST/).
-* Eventually this will be updated to include not only the original materials but future updates AST makes and gives back for use as part Creative Commons license. 
+These materials were pulled from the Creative Commons BBST material from [http://testingeducation.org/BBST/](http://testingeducation.org/BBST/) and include the original materials and future updates the AST makes.
 
-
+*This site is very much a work in progress*
 

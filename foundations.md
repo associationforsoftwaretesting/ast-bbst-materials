@@ -17,53 +17,53 @@ More info on the Learning Objectives for Foundations of Software Testing are ava
 
 ## Videos
 
-Lecture 1: Overview & Basic Definitions
+### Lecture 1: Overview & Basic Definitions
 
 This provides an overview of the online Black Box Software Testing courses and introduces some definitions commonly used in the testing field.
 
-* Lecture 1a \(10 mins\) \(MP4\)
-* Lecture 1b \(10 mins\) \(MP4\)
-* Lecture 1c \(9 mins\) \(MP4\)
+* Lecture 1a \(10 mins\) 
+* Lecture 1b \(10 mins\) 
+* Lecture 1c \(9 mins\) 
 
-Lecture 2: Strategy
+### Lecture 2: Strategy
 
 This considers why testers test, what they are trying to learn, and how they can organize their work to achieve their mission.
 
-* Lecture 2a \(9 mins\) \(MP4\)
-* Lecture 2b \(9 mins\) \(MP4\)
+* Lecture 2a \(9 mins\) 
+* Lecture 2b \(9 mins\) 
 
-Lecture 3: Oracles
+### Lecture 3: Oracles
 
 This presents software oracles as heuristics that help testers make a judgment whether or not software passes the tests that are run.
 
-* Lecture 3a \(7 mins\) \(MP4\)
-* Lecture 3b \(10 mins\) \(MP4\)
-* Lecture 3c \(7 mins\) \(MP4\)
+* Lecture 3a \(7 mins\) 
+* Lecture 3b \(10 mins\) 
+* Lecture 3c \(7 mins\) 
 
-Lecture 4: Programming Fundamentals & Coverage
+### Lecture 4: Programming Fundamentals & Coverage
 
 This presents information about basic data handling and storage to help testers think about the multi-dimensional problem of test coverage in more sophisticated ways.
 
-* Lecture 4a \(10 mins\) \(MP4\)
-* Lecture 4b \(9 mins\) \(MP4\)
-* Lecture 4c \(9 mins\) \(MP4\)
-* Lecture 4d \(4 mins\) \(MP4\)
+* Lecture 4a \(10 mins\) 
+* Lecture 4b \(9 mins\) 
+* Lecture 4c \(9 mins\) 
+* Lecture 4d \(4 mins\) 
 
-Lecture 5: The Impossibility of Complete Testing
+### Lecture 5: The Impossibility of Complete Testing
 
 This explores the complexity of determining when testing is finished and how the goal of complete testing is unattainable.
 
-* Lecture 5a \(9 mins\) \(MP4\)
-* Lecture 5b \(10 mins\) \(MP4\)
-* Lecture 5c \(10 mins\) \(MP4\)
+* Lecture 5a \(9 mins\) 
+* Lecture 5b \(10 mins\) 
+* Lecture 5c \(10 mins\) 
 
-Lecture 6: Introduction to Measurement
+### Lecture 6: Introduction to Measurement
 
 This addresses the challenges of measurement in software testing.
 
-* Lecture 6a \(9 mins\) \(MP4\)
-* Lecture 6b \(9 mins\) \(MP4\)
-* Lecture 6c \(7 mins\) \(MP4\)
+* Lecture 6a \(9 mins\) 
+* Lecture 6b \(9 mins\) 
+* Lecture 6c \(7 mins\) 
 
 ## Readings
 
@@ -101,10 +101,10 @@ This addresses the challenges of measurement in software testing.
 
 ## Assignments
 
-* Orientation Exercise for lecture on Impossibility of Complete Testing 
-* Mission of Testing 
-* Orientation Exercise for lecture on Oracles 
-* Oracle Heuristics 3-Phase Lab 
+* [Orientation Exercise for lecture on Impossibility of Complete Testing](./Foundations/Assignments/MissionOfTestingSpring2011a.pdf) 
+* [Mission of Testing](./Foundations/Assignments/OracleHeuristicsLab6b.pdf) 
+* [Orientation Exercise for lecture on Oracles](./Foundations/Assignments/OraclesPreviewLabFIT_BBST_fall2011.pdf) 
+* [Oracle Heuristics 3-Phase Lab](./Foundations/Assignments/PreviewSquareRootLab.pdf) 
 
 ## Study Guide
 

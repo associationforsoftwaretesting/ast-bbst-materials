@@ -16,7 +16,9 @@ The scope of exploration is the same as the scope of testing itself.
 
 The old definition of testing—execution of a program with the intent of exposing coding errors—is far too narrow. I used to push this definition too, but my work went beyond it and so did the work of most other skilled testers. When the definition doesn’t describe the practice, I think we should value the practice and fix the definition. Here’s what I work from now:
 
-Software testing is a technical investigation conducted to provide stakeholders with empirical information about the quality of a software product, system or service. The investigation includes research necessary to design information-revealing tests and interpret their results, building tools and data sets to make those tests possible, and communication necessary to report results to stakeholders in an effective way. Like any skilled tester, the explorer does all of these. The difference is that the explorer does them in any sequence that is useful, mixing research, design, execution, interpretation, and communication so as to keep exposing new information and keep up with the ongoing changes in market, platform, design, and implementation of the software under test.
+> Software testing is a technical investigation conducted to provide stakeholders with empirical information about the quality of a software product, system or service. 
+
+The investigation includes research necessary to design information-revealing tests and interpret their results, building tools and data sets to make those tests possible, and communication necessary to report results to stakeholders in an effective way. Like any skilled tester, the explorer does all of these. The difference is that the explorer does them in any sequence that is useful, mixing research, design, execution, interpretation, and communication so as to keep exposing new information and keep up with the ongoing changes in market, platform, design, and implementation of the software under test.
 
 The slides provide material for several videos, but we've only completed taping of the first one....
 
