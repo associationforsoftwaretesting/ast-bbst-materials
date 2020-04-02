@@ -22,7 +22,7 @@ The slides provide material for several videos, but we've only completed taping 
 
 ## Slides
 
-* BBSTExploring.pdf
+* [ET Slides - Original](./Exploratory%20Testing/BBSTExploring.pdf)
 
 ## Videos
 
