@@ -13,7 +13,7 @@ More info on the Learning Objectives for Foundations of Software Testing are ava
 
 ## Slides
 
-* slidesBBSTFoundationsNov2010.pdf
+* [Foundations Slides - Original](./Foundations/slidesBBSTFoundationsNov2010.pdf)
 
 ## Videos
 
@@ -81,5 +81,5 @@ Austin, Robert. \(1996\), Measuring and Managing Performance in Organizations \(
 
 ## Study Guide
 
-* bbstFoundationsStudyGuide.pdf
+* [Foundations Study Guide](./Foundations/bbstFoundationsStudyGuide.pdf)
 

@@ -16,14 +16,14 @@ The course takes a fast skim of several dozen techniques, and looks at a few in 
 The current slide set comes in the course sequence after sections on:
 
 * Function testing
-* Domain testing \(and with it, a first look at risk-based testing\)
+* Domain testing (and with it, a first look at risk-based testing)
 * Scenario testing
 
 We then skim a group of 10 different techniques, noticing their different objectives, strengths and blind spots.
 
 ## Slides
 
-* BBSTTestDesign2011pfinal.pdf
+* [Test Design Slides - Original](Test%20Design/BBSTTestDesign2011pfinal.pdf)
 
 ## Videos
 
@@ -31,5 +31,5 @@ We then skim a group of 10 different techniques, noticing their different object
 
 ## Study Guide
 
-* TestDesignStudyGuideSupersetDecember2011.pdf
+* [Test Design Study Guide](Test%20Design/TestDesignStudyGuideSupersetDecember2011.pdf)
 
