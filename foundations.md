@@ -24,20 +24,23 @@ This provides an overview of the online Black Box Software Testing courses and i
 * Lecture 1a \(10 mins\) \(MP4\)
 * Lecture 1b \(10 mins\) \(MP4\)
 * Lecture 1c \(9 mins\) \(MP4\)
-* Lecture 2: Strategy
+
+Lecture 2: Strategy
 
 This considers why testers test, what they are trying to learn, and how they can organize their work to achieve their mission.
 
 * Lecture 2a \(9 mins\) \(MP4\)
 * Lecture 2b \(9 mins\) \(MP4\)
-* Lecture 3: Oracles
+
+Lecture 3: Oracles
 
 This presents software oracles as heuristics that help testers make a judgment whether or not software passes the tests that are run.
 
 * Lecture 3a \(7 mins\) \(MP4\)
 * Lecture 3b \(10 mins\) \(MP4\)
 * Lecture 3c \(7 mins\) \(MP4\)
-* Lecture 4: Programming Fundamentals & Coverage
+
+Lecture 4: Programming Fundamentals & Coverage
 
 This presents information about basic data handling and storage to help testers think about the multi-dimensional problem of test coverage in more sophisticated ways.
 
@@ -45,14 +48,16 @@ This presents information about basic data handling and storage to help testers 
 * Lecture 4b \(9 mins\) \(MP4\)
 * Lecture 4c \(9 mins\) \(MP4\)
 * Lecture 4d \(4 mins\) \(MP4\)
-* Lecture 5: The Impossibility of Complete Testing
+
+Lecture 5: The Impossibility of Complete Testing
 
 This explores the complexity of determining when testing is finished and how the goal of complete testing is unattainable.
 
 * Lecture 5a \(9 mins\) \(MP4\)
 * Lecture 5b \(10 mins\) \(MP4\)
 * Lecture 5c \(10 mins\) \(MP4\)
-* Lecture 6: Introduction to Measurement
+
+Lecture 6: Introduction to Measurement
 
 This addresses the challenges of measurement in software testing.
 
@@ -62,9 +67,7 @@ This addresses the challenges of measurement in software testing.
 
 ## Readings
 
-All readings archived on this site are reposted by permission of the copyright holders.
-
-## Required Readings
+### Required Readings
 
 * Michael Bolton: Testing Without a Map  
 * Douglas Hoffman: Exhausting your test options  
@@ -73,7 +76,7 @@ All readings archived on this site are reposted by permission of the copyright h
 * Cem Kaner, Elisabeth Hendrickson & Jennifer Smith-Brock: Managing the proportion of testers to \(other\) developers  
 * Brian Marick: How to misuse code coverage 
 
-## Recommended Readings
+### Recommended Readings
 
 
 * Austin, Robert. \(1996\), Measuring and Managing Performance in Organizations \(BOOK\) 
