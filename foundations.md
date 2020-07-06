@@ -13,6 +13,7 @@ More info on the Learning Objectives for Foundations of Software Testing are ava
 
 ## Slides
 
+* [Foundations Slides - Latest](./Foundations/slidesFoundations2020.pdf)
 * [Foundations Slides - Original](./Foundations/slidesBBSTFoundationsNov2010.pdf)
 
 ## Videos

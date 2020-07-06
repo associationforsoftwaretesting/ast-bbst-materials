@@ -23,7 +23,7 @@ We then skim a group of 10 different techniques, noticing their different object
 
 ## Slides
 
-* [Test Design Slides - Original](./Test%20Design/BBSTTestDesign2011pfinal.pdf)
+* [Test Design Slides - Original](./Test%20Design/slidesBBSTTestDesign2011.pdf)
 
 ## Videos
 
