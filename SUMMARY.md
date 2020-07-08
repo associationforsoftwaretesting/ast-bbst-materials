@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome to the AST-BBST Materials](README.md)
+* [Welcome](README.md)
 * [Foundations](foundations.md)
 * [Bug Advocacy](bug-advocacy.md)
 * [Test Design](test-design.md)

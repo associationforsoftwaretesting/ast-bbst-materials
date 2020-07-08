@@ -1,4 +1,4 @@
-# AST-BBST Bug Advocacy
+# AST-Black Box Software Testing: Bug Advocacy
 
 ## Bug Advocacy: Effective Bug Investigation and Reporting
 

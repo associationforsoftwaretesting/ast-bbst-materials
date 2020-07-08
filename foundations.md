@@ -1,4 +1,4 @@
-# AST-BBST Foundations
+# AST-Black Box Software Testing: Foundations
 
 ## Overview
 

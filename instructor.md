@@ -1,10 +1,10 @@
-# AST-BBST Instructor
+# AST-Black Box Software Testing: Instructor
 
 ## Overview
 
-### Becoming an AST-BBST Instructor
+### Becoming an Instructor
 
-Instructors in the AST-BBST project are software testing professionals. To qualify as a course instructor, prospective candidates must:
+Instructors in the project are software testing professionals. To qualify as a course instructor, prospective candidates must:
 
 * successfully complete the course they wish to teach
 * complete an instructor training course

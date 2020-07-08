@@ -1,10 +1,21 @@
-# Welcome to the AST-BBST Materials
+# Welcome to the AST's Black Box Software Testing Materials
 
-This site provides [Creative Commons-licensed](http://creativecommons.org/licenses/by/3.0/) instructional materials (slides and videos) to teach Black Box Software Testing by the [Association for Software Testing](https://www.associationforsoftwaretesting.org/) as part of our [AST-BBST courses](https://www.associationforsoftwaretesting.org/courses. (All additions made by AST are also Creative Commons licensed).
+This site provides instructional materials (slides and videos) used for AST-Black Box Software Testing by the [Association for Software Testing](https://www.associationforsoftwaretesting.org/courses)'s own courses. All materials including updates made by the AST are [Creative Commons-licensed](http://creativecommons.org/licenses/by/3.0/). 
 
-These materials were pulled from the BBST® material from [The Center for Software Testing Education & Research](http://testingeducation.org/BBST/) and include the original materials and future updates the AST makes. All these materials are also CC licensed. BBST® is a registered trademark of [Altom Consulting](https://altom.com/).
+These materials were pulled from the open source, creative commons licensed BBST® material at [The Center for Software Testing Education & Research](http://testingeducation.org/BBST/). The AST no longer uses the trademarked BBST® term but where applicable we note that BBST® is a registered trademark of [Altom Consulting](https://altom.com/). (If you find this term used in our materials please [file a bug](https://github.com/associationforsoftwaretesting/ast-bbst-materials/issues).)
+
 
 Note: *This site is very much a work in progress*
 
-If you would like to make any edits, or make suggestions for improvements please do them through GitHub. You can [file bugs here](https://github.com/associationforsoftwaretesting/ast-bbst-materials/issues).
+### Goals
+
+The goals of this project are simple:
+
+1. Host updated materials used in our classes
+2. Eventually provide self-study options
+3. Create a backup of those public files in case www.testingeducation.org/BBST becomes unavailabile in the future. 
+
+### Contributing
+
+We'd love to get your input on improvements, suggestions, grammar, outdated concepts or any other bugs that you find. You can [file bugs here](https://github.com/associationforsoftwaretesting/ast-bbst-materials/issues) and then we will address them.
 

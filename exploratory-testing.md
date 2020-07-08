@@ -1,4 +1,4 @@
-# AST-BBST Exploratory Testing
+# AST-Exploratory Testing
 
 This is a course that was never really created. Here we've pulled the materials directly from [TestingEducation.org](http://testingeducation.org/BBST/exploratory/), written by Cem Kaner:
 

@@ -1,4 +1,4 @@
-# AST-BBST Test Design
+# AST-Black Box Software Testing: Test Design
 
 Pulled directly from [TestingEducation.org](http://testingeducation.org/BBST/testdesign/):
 
