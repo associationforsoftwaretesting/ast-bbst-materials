@@ -18,8 +18,8 @@ Bug reports are not just neutral technical reports. They are persuasive document
 
 ## Slides
 
-* [BA Slides - Latest](./Bug%20Advocacy/slidesBugAdvocacy2019.pdf)
-* [BA Slides - Original](./Bug%20Advocacy/slidesBugAdvocacy2008.pdf)
+* [Bug Advocacy Slides - Latest](./Bug%20Advocacy/slidesBugAdvocacy2019.pdf)
+* [Bug Advocacy Slides - Original](./Bug%20Advocacy/slidesBugAdvocacy2008.pdf)
 
 ## Videos
 
