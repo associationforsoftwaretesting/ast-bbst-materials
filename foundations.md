@@ -81,24 +81,24 @@ This addresses the challenges of measurement in software testing.
 
 
 * Austin, Robert. \(1996\), Measuring and Managing Performance in Organizations \(BOOK\) 
-* James Bach: Heuristic Test Strategy Model  
-* Rex Black: Factors that influence test estimation \(WEBSITE \) 
-* Michael Bolton: Meaningful metrics  
-* David Goldberg: What every computer scientist should know about floating-point arithmetic  
-* Douglas Hoffman: The darker side of software metrics  
-* Cem Kaner and Walter P. Bond: Software engineering metrics: What do they measure and how do we know?  
-* Cem Kaner: Negotiating testing resources: A collaborative approach  
-* Cem Kaner: Recruiting software testers  
-* Michael Kelly: Using heuristic test oracles  
-* Michael Kelly: Estimating testing using spreadsheets  
-* Billy V. Koen: The engineering method and the heuristic: A personal history \("This was the beginning of a 37 year quest to find one thing that was not a heuristic."\)  
+* [James Bach: Heuristic Test Strategy Model](https://www.satisfice.com/download/heuristic-test-strategy-model)
+* [Rex Black: Factors that influence test estimation \(WEBSITE \)](https://www.stickyminds.com/article/factors-influence-test-estimation)
+* [Michael Bolton: Meaningful metrics](Foundations/Readings/Bolton_MetricsBlogPost.pdf)
+* [David Goldberg: What every computer scientist should know about floating-point arithmetic](Foundations/Readings/Goldberg_FloatingPoint.pdf)
+* [Douglas Hoffman: The darker side of software metrics](Foundations/Readings/Hoffman_DarkerSideMetrics.pdf)
+* [Cem Kaner and Walter P. Bond: Software engineering metrics: What do they measure and how do we know?](Foundations/Readings/Kaner_Bond_metrics2004.pdf)  
+* [Cem Kaner: Negotiating testing resources: A collaborative approach](Foundations/Readings/Kaner_NegotiatingTestResources.pdf)  
+* [Cem Kaner: Recruiting software testers](Foundations/Readings/Kaner_JobsRev6.pdf)  
+* [Michael Kelly: Using heuristic test oracles](Foundations/Readings/Kelly_UsingTestOracles.pdf)  
+* [Michael Kelly: Estimating testing using spreadsheets](Foundations/Readings/Kelly_estimating_testing.pdf)  
+* [Billy V. Koen: The engineering method and the heuristic: A personal history \("This was the beginning of a 37 year quest to find one thing that was not a heuristic."\)](Foundations/Readings/Koen_EngineeringMethod.pdf)
 * Koen, Billy V. Definition of the Engineering Method, American Society for Engineering Education \(ASEE\). \(A later version that is more thorough but maybe less approachable is Discussion of the Method, Oxford University Press, 2003\) \(BOOK\) 
-* Jonathan Kohl: How do I Create Value with my Testing?  
-* Brian Marick: Experience with the cost of different coverage goals for testing  
+* [Jonathan Kohl: How do I Create Value with my Testing?](Foundations/Readings/Kohl_Blog_CreateValue.pdf)  
+* [Brian Marick: Experience with the cost of different coverage goals for testing](Foundations/Readings/Marick_experience.pdf)
 * Petzold, Charles. \(1993\), Code: The Hidden Language of Computer Hardware and Software. Microsoft Press \(BOOK\) 
 * Popper, Karl \(2002, 3rd Ed.\) , Conjectures and Refutations: The Growth of Scientific Knowledge \(RoutledgeClassics\). \(BOOK\) 
-* Erik Simmons: When will we be done testing? Software defect arrival modeling using the Weibull distribution  
-* Elaine J. Weyuker: On testing nontestable programs 
+* [Erik Simmons: When will we be done testing? Software defect arrival modeling using the Weibull distribution](Foundations/Readings/Simmons_Weibull.pdf)
+* [Elaine J. Weyuker: On testing nontestable programs](Foundations/Readings/Weyuker_ontestingnontestable.pdf) 
 
 ## Assignments
 
@@ -110,4 +110,3 @@ This addresses the challenges of measurement in software testing.
 ## Study Guide
 
 * [Foundations Study Guide](./Foundations/bbstFoundationsStudyGuide.pdf)
-[
