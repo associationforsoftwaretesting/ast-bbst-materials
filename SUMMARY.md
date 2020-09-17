@@ -6,4 +6,4 @@
 * [Test Design](test-design.md)
 * [Instructor](instructor.md)
 * [Exploratory Testing](exploratory-testing.md)
-
+* [Taking Exams](takingexams.md)
