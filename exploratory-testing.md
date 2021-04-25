@@ -24,7 +24,8 @@ The slides provide material for several videos, but we've only completed taping 
 
 ## Slides
 
-* [ET Slides - Original](./Exploratory%20Testing/slidesBBSTExploring.pdf)
+* ET Slides - Latest (coming soon)
+* [ET Slides - Original](./Exploratory%20Testing/slidesBBSTExploring2006.pdf)
 
 ## Videos
 
